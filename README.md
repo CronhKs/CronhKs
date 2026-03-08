@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e2530,50:252d3a,100:1e2530&height=220&section=header&text=Fabian%20Cronhenko&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Indie%20Developer%20%E2%80%A2%20Studio%20Director%20%E2%80%A2%20%F0%9F%87%BB%F0%9F%87%AA%20Venezuela&descSize=16&descAlignY=60&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=220&section=header&text=Fabian%20Cronhenko&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Indie%20Developer%20%E2%80%A2%20Studio%20Director%20%E2%80%A2%20%F0%9F%87%BB%F0%9F%87%AA%20Venezuela&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1628,50:162540,100:0e1628&height=220&section=header&text=Fabian%20Cronhenko&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Indie%20Developer%20%E2%80%A2%20Studio%20Director%20%E2%80%A2%20%F0%9F%87%BB%F0%9F%87%AA%20Venezuela&descSize=16&descAlignY=60&animation=fadeIn" width="100%" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CronhKs&color=555555&style=flat-square&label=profile+views)
 
@@ -70,9 +67,6 @@ I build software that solves real problems — desktop apps and web tools. I car
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e2530,50:252d3a,100:1e2530&height=100&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=100&section=footer" width="100%" alt="footer" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1628,50:162540,100:0e1628&height=100&section=footer" width="100%" />
 
 </div>
