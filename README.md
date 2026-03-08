@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12110f,50:21201c,100:12110f&height=220&section=header&text=Fabian%20Cronhenko&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Indie%20Developer%20%E2%80%A2%20Studio%20Director%20%E2%80%A2%20%F0%9F%87%BB%F0%9F%87%AA%20Venezuela&descSize=16&descAlignY=60&animation=fadeIn" width="100%" />
+<!-- Dark mode header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2530,50:252d3a,100:1e2530&height=220&section=header&text=Fabian%20Cronhenko&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Indie%20Developer%20%E2%80%A2%20Studio%20Director%20%E2%80%A2%20%F0%9F%87%BB%F0%9F%87%AA%20Venezuela&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="header" #gh-dark-mode-only />
+
+<!-- Light mode header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=220&section=header&text=Fabian%20Cronhenko&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Indie%20Developer%20%E2%80%A2%20Studio%20Director%20%E2%80%A2%20%F0%9F%87%BB%F0%9F%87%AA%20Venezuela&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="header" #gh-light-mode-only />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CronhKs&color=555555&style=flat-square&label=profile+views)
 
@@ -29,9 +33,9 @@ I build software that solves real problems — desktop apps and web tools. I car
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CronhKs&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=efefef&text_color=888888&icon_color=cccccc&rank_icon=github&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CronhKs&show_icons=true&theme=github_dark&hide_border=true&title_color=efefef&text_color=888888&icon_color=cccccc&rank_icon=github&include_all_commits=true)
 
-![Streak](https://streak-stats.demolab.com?user=CronhKs&theme=github-dark-blue&hide_border=true&background=00000000&stroke=2a2a2a&ring=888888&fire=dddddd&currStreakLabel=efefef&sideLabels=888888&dates=555555&currStreakNum=efefef&sideNums=888888)
+![Streak](https://streak-stats.demolab.com?user=CronhKs&theme=github-dark-blue&hide_border=true&background=161b22&stroke=2a2a2a&ring=888888&fire=dddddd&currStreakLabel=efefef&sideLabels=888888&dates=555555&currStreakNum=efefef&sideNums=888888)
 
 </td>
 </tr>
@@ -41,7 +45,7 @@ I build software that solves real problems — desktop apps and web tools. I car
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=CronhKs&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=CronhKs&theme=onedark&no-frame=true&margin-w=6&column=6)
 
 </div>
 
@@ -67,6 +71,10 @@ I build software that solves real problems — desktop apps and web tools. I car
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12110f,50:21201c,100:12110f&height=100&section=footer" width="100%" />
+<!-- Dark mode footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2530,50:252d3a,100:1e2530&height=100&section=footer" width="100%" alt="footer" #gh-dark-mode-only />
+
+<!-- Light mode footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=100&section=footer" width="100%" alt="footer" #gh-light-mode-only />
 
 </div>
